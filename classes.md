@@ -8,7 +8,7 @@ I typically charge around 3,000 yen an hour excluding the transportation fee. Fo
 <table>
     <tr>
         <th>Number of Students</th>
-        <th>Cost per student</th>
+        <th>Cost per student (JPY)</th>
     </tr>
     <tr>
         <td>1</td>
