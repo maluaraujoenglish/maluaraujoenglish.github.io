@@ -91,10 +91,27 @@ section#main img, section#main iframe {
     display: block;
     text-align: center;
     max-width: 95%;
-    border: 7px solid #343434;
-    border-radius: 5px;
+    /*border: 7px solid #343434;
+    border-radius: 5px;*/
     display: block;
     margin: auto;
+}
+
+section#main table {
+    background-color: #ddd;
+    max-width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+section#main table td, section#main table th {
+    padding: 0.5em;
+    border: 1px solid black;
+}
+
+/* zebra-stripe the table. */
+section#main table tr:nth-child(even) {
+    background: #F4C6C6;
 }
 
 /* mobile devices */
