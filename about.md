@@ -10,7 +10,7 @@ Children are also shapeable and do not possess a sense of criticism, accept sugg
 
 I base my classes in the everyday situations like conversation or as per the students' needs. I aim to work out of the constraints of grammar, letting the student think outside of the box and learn how to speak from memorization and assimilation.
 
-Take the first step in making your child bilingual: schedule a trial today!
+Take the first step in making your child bilingual: [schedule a class today!](/contact.html)
 
 ## Gallery of class pictures
 
