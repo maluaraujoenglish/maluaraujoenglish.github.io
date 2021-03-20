@@ -3,12 +3,12 @@
 I teach my students one to one in the students' preferred location.
 Most of my students ask that I go to their house, while others feel more comfortable in a public setting such as a cafe. I live around the Tokyo Bay area and am willing to travel around Central Tokyo, but require my transportation to be covered separately from the cost of the lessons.
 
-I typically charge around 3,000 yen an hour excluding the transportation fee. For group classes starting from three students, the price per student decreases. Group classes may not go over six students.
+I typically charge around 3,000 yen an hour plus the transportation fee if applicable. For group classes, starting from two students, the price per student decreases. Group classes may not go over six students.
 
 <table>
     <tr>
         <th>Number of Students</th>
-        <th>Cost per student (JPY)</th>
+        <th>Cost per student per hour (JPY)</th>
     </tr>
     <tr>
         <td>1</td>
@@ -16,7 +16,7 @@ I typically charge around 3,000 yen an hour excluding the transportation fee. Fo
     </tr>
     <tr>
         <td>2</td>
-        <td>3000</td>
+        <td>2500</td>
     </tr>
     <tr>
         <td>3</td>
@@ -35,3 +35,5 @@ I typically charge around 3,000 yen an hour excluding the transportation fee. Fo
         <td>1000</td>
     </tr>
 </table>
+
+[Get in touch with me to schedule a class today!](/contact.html)
