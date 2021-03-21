@@ -10,4 +10,4 @@ The easiest way to do reach me is via LINE (a Japanese Chat app), which you can 
 
 Want to check out more of my work and the material I have produced? Check out my other social media, where I post regularly about teaching English to kids.
 
-Follow [@teacher.malusensei](https://instagram.com/teacher.malusensei) in Instagram to keep up to date with my teachings and material, or head to [my YouTube Channel](https://www.youtube.com/channel/UC_gaGWZJ1ta8zOcA4s_Didw) to watch some of my teaching techniques alongside my feline "assistants" Petunio and Pepe.
+Follow [@teacher.malusensei](https://instagram.com/malusensei.englishteacher) in Instagram to keep up to date with my teachings and material, or head to [my YouTube Channel](https://www.youtube.com/channel/UC_gaGWZJ1ta8zOcA4s_Didw) to watch some of my teaching techniques alongside my feline "assistants" Petunio and Pepe.
