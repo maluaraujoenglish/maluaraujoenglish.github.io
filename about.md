@@ -1,6 +1,8 @@
 # About Malu-sensei's classes
 
-What if your child learned a different language without having to resort to grammar? You learned your own mother language during childhood by the means of repetition and assimilation. This is how we should learn other languages.
+> **What if your child learned a different language without having to resort to grammar?** 
+
+After all, that's how you learned your own mother language during your childhood by repetition and assimilation - and this is how we should learn other languages.
 
 My name is Malu and I've got a passion for teaching the English language. With over five years of experience across Brazil, South Korea, China and Japan, I've taught over 400 students English conversation without the use of their native language in the classes. I also make use of the Total Physical Response (TPR) method, the leading methodology for teaching in asian schools.
 
@@ -10,28 +12,12 @@ Children are also shapeable and do not possess a sense of criticism, accept sugg
 
 I base my classes in the everyday situations like conversation or as per the students' needs. I aim to work out of the constraints of grammar, letting the student think outside of the box and learn how to speak from memorization and assimilation.
 
+## My methodology:
+
+We focus on learning based on playful and dynamic activities in English integrating Total Physical Response (TPR) and vocalization. Having fun while learning has a powerful positive effect in our motivation, determining how much we can learn and, more importantly, retain.
+
+The class activities include: games, flashcards, toys, memory games, daily routines, basic conversation and phonics. With this methodology, kids believe they are playing and have fun while learning English vocabulary thanks to the total physical response (TPR) approach.
+
+I have taught through this methodology for five years. The classes are very dynamic with lots of interaction with the children, and guarantee that the lessons and knowledge taught there will stick for the children's life.
+
 Take the first step in making your child bilingual: [schedule a class today!](/contact.html)
-
-## Gallery of class pictures
-
-I teach in several environments and class sizes, sometimes even alongside the students' moms. See below some highlights of my classes:
-
-![](/images/Slide1.JPG)
-
-![](/images/Slide2.JPG)
-
-![](/images/Slide3.JPG)
-
-![](/images/Slide4.JPG)
-
-![](/images/Slide5.JPG)
-
-![](/images/Slide6.JPG)
-
-![](/images/Slide7.JPG)
-
-![](/images/Slide8.JPG)
-
-![](/images/Slide9.JPG)
-
-![](/images/Slide10.JPG)
