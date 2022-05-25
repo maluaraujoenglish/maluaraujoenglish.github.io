@@ -1,4 +1,6 @@
-# About Malu-sensei's classes
+# About Malu's classes
+
+![A drawing of Malu and her students ready for class](/images/alunos.png)
 
 > **What if your child learned a different language without having to resort to grammar?** 
 
@@ -14,7 +16,7 @@ I base my classes in the everyday situations like conversation or as per the stu
 
 ## My methodology:
 
-We focus on learning based on playful and dynamic activities in English integrating Total Physical Response (TPR) and vocalization. Having fun while learning has a powerful positive effect in our motivation, determining how much we can learn and, more importantly, retain.
+We focus on learning based on playful and dynamic activities in English integrating **Total Physical Response (TPR)** and vocalization. Having fun while learning has a powerful positive effect in our motivation, determining how much we can learn and, more importantly, retain.
 
 The class activities include: games, flashcards, toys, memory games, daily routines, basic conversation and phonics. With this methodology, kids believe they are playing and have fun while learning English vocabulary thanks to the total physical response (TPR) approach.
 
