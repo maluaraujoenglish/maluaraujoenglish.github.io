@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://maluaraujo.github.io</loc>
-        <lastmod>2021-04-04</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
-        <loc>https://maluaraujo.github.io/testimonials.html</loc>
-        <lastmod>2021-04-04</lastmod>
-        <changefreq>monthly</changefreq>
-    </url>
-    <url>
         <loc>https://maluaraujo.github.io/contact.html</loc>
-        <lastmod>2021-04-04</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://maluaraujo.github.io/gallery.html</loc>
-        <lastmod>2021-04-04</lastmod>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://maluaraujo.github.io/about.html</loc>
-        <lastmod>2021-04-04</lastmod>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://maluaraujo.github.io/testimonials.html</loc>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     <url>
         <loc>https://maluaraujo.github.io/classes.html</loc>
-        <lastmod>2021-04-04</lastmod>
+        <lastmod>2022-05-25</lastmod>
+        <changefreq>monthly</changefreq>
+    </url>
+    <url>
+        <loc>https://maluaraujo.github.io</loc>
+        <lastmod>2022-05-25</lastmod>
         <changefreq>monthly</changefreq>
     </url>
 </urlset>
