@@ -24,4 +24,8 @@ See below some highlights of my classes:
 
 ![](/images/Slide10.JPG)
 
+![](/images/Slide11.JPG)
+
+![](/images/Slide12.JPG)
+
 Make the best decision to turn your child bilingual today - [schedule a class with me!](/contact.html)

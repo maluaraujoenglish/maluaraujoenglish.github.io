@@ -1,6 +1,6 @@
-# Welcome to Malu-sensei's English Classes!
+# Welcome to Malu's English Class!
 
-![Welcome to Malu-sensei's English Classes!](/images/malu_sensei_main.png)
+![Welcome to Malu's English Class!](/images/malu_sensei_main.png)
 
 What if your child was to learn a second language **without having to resort to grammar?**
 
