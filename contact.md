@@ -12,6 +12,6 @@ I can also be reached via LINE (a Japanese Chat app) if you have it, which you c
 
 Want to check out more of my work and the material I have produced? Check out my other social media, where I post regularly about teaching English to kids.
 
-Follow [@malusensei.englishteacher](https://instagram.com/malusensei.englishteacher) on Instagram to keep up to date with my teachings and material, or head to [my YouTube Channel](https://www.youtube.com/channel/UC_gaGWZJ1ta8zOcA4s_Didw) to watch some of my teaching techniques alongside my feline "assistants" Petunio and Pepe.
+Follow [@malusensei.englishteacher](https://instagram.com/malusensei.englishteacher) on Instagram to keep up to date with my teachings and material.
 
 Looking forward to talking to you!
