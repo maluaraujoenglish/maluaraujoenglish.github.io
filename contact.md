@@ -2,7 +2,7 @@
 
 Want to schedule a class with me? Would you like to hear more about the classes and the methodology I use? Please do get in touch with me: send me a message in my Instagram page [@malusensei.englishteacher](https://instagram.com/malusensei.englishteacher) and let's talk!
 
-Alternatively, reach me ivia WhatsApp. Add me at **+817041019212** (not a regular phone number).
+Alternatively, reach me via WhatsApp. Add me at **+33633787395** and let's talk!
 
 I can also be reached via LINE (a Japanese Chat app) if you have it, which you can do by [clicking here](https://line.me/ti/p/wzzxWE88S-) or scanning the image below with your LINE app:
 
