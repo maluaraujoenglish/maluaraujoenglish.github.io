@@ -11,11 +11,11 @@ If you schedule a full month of classes, with at least 8 classes reserved, a *di
     </tr>
     <tr>
         <td>1</td>
-        <td>20 €</td>
+        <td>30 €</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>17 €</td>
+        <td>20 €</td>
     </tr>
     <tr>
         <td>3 to 4</td>
