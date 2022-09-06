@@ -1,6 +1,6 @@
 # Classes and Rates
 
-I typically charge around 20 € an hour plus the transportation fee if applicable. For group classes, starting from two, the price per student decreases as shown below. Group classes may not go over four students.
+I typically charge around 30 € an hour plus the transportation fee if applicable. For group classes, starting from two, the price per student decreases as shown below. Group classes may not go over four students.
 
 If you schedule a full month of classes, with at least 8 classes reserved, a *discount* is applicable. Contact me for more information.
 
